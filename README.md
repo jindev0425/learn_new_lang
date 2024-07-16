@@ -21,3 +21,4 @@ Summary Notes:
 ---
 User have several avatars to speak with (e.g., Chef, tourist visiting your country, a tour guide, restaurant server) to choose from OR a random question mark. 
 Start a conversation. Interface depends on the level. 
+- Good to have: 2d/3d image of the avatar generated based on the conversation (personality, etc.).
